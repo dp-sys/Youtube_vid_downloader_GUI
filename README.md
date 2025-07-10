@@ -14,3 +14,4 @@
   - i'm not the person who actively maintaining updates, so update on your own when new [ffmpeg](https://ffmpeg.org/) and [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp) releases.
   - hehehe 😊😁
   - too lazy to create a full standalone GUI.exe 😪😴
+  - Just kidding, coming on next release.
